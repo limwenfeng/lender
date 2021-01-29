@@ -33,4 +33,8 @@ public class LoanManager {
         }
         return profit;
     }
+
+    public double getMaxLoanAmount() {
+        return loans[0].getMaxLoanAmount();
+    }
 }
