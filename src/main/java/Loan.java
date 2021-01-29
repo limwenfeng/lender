@@ -39,4 +39,4 @@ public class Loan {
         return maxLoanAmount;
 }}
     //you can call this method on any of the loan object and it will return u the max loan amount
-    //testing commit2
+    //testing commit23
